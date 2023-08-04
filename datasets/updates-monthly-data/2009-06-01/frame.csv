@@ -1,0 +1,9 @@
+id,url,owner,name,createdAt,commits,dateLastCommit,contributors,closedPullReqCount,closedPullReqLastDate,mergedPullReqCount,mergedPullReqLastDate,stargazerCount,forkCount,closedIssuesCount,monthlyclosedPullReq,monthlyCommits,monthlymergedPullReq
+MDEwOlJlcG9zaXRvcnkxODM4MTA=,https://github.com/akara/faban,akara,faban,2009-04-23 18:49:29,594,2009-05-31 02:46:59,8,0,,0,,6,0,0,0,33,0
+MDEwOlJlcG9zaXRvcnkxMDE1Mjc=,https://github.com/bpellin/keepassdroid,bpellin,keepassdroid,2009-01-05 22:01:52,59,2009-05-31 03:53:27,1,0,,0,,38,0,0,0,20,0
+MDEwOlJlcG9zaXRvcnkyMDk4NTM=,https://github.com/caelum/caelum-stella,caelum,caelum-stella,2009-05-25 18:31:31,692,2009-05-23 00:39:32,7,0,,0,,17,0,0,0,14,0
+MDEwOlJlcG9zaXRvcnkxNTQ1MjA=,https://github.com/caelum/vraptor,caelum,vraptor,2009-03-19 20:02:31,853,2009-05-29 21:01:54,12,0,,0,,40,0,0,0,235,0
+MDEwOlJlcG9zaXRvcnkxMDYzMTA=,https://github.com/junit-team/junit4,junit-team,junit4,2009-01-13 03:41:26,639,2009-05-29 18:57:14,19,0,,0,,180,2,0,0,90,0
+MDEwOlJlcG9zaXRvcnkxNjUxODM=,https://github.com/maxcom/lorsource,maxcom,lorsource,2009-04-01 14:10:52,959,2009-05-25 16:14:08,11,0,,0,,12,1,0,0,111,0
+MDEwOlJlcG9zaXRvcnkyMTM0Njk=,https://github.com/simpligility/android-maven-plugin,simpligility,android-maven-plugin,2009-05-29 15:08:20,104,2009-05-25 18:02:36,2,0,,0,,36,0,0,0,6,0
+MDEwOlJlcG9zaXRvcnk4NjE0OQ==,https://github.com/unclebob/fitnesse,unclebob,fitnesse,2008-12-06 19:38:59,703,2009-05-31 22:21:41,36,0,,0,,91,12,0,0,74,0

@@ -1,0 +1,23 @@
+id,url,owner,name,createdAt,commits,dateLastCommit,contributors,closedPullReqCount,closedPullReqLastDate,mergedPullReqCount,mergedPullReqLastDate,stargazerCount,forkCount,closedIssuesCount,monthlyclosedPullReq,monthlyCommits,monthlymergedPullReq
+MDEwOlJlcG9zaXRvcnkxODM4MTA=,https://github.com/akara/faban,akara,faban,2009-04-23 18:49:29,871,2010-03-23 07:57:35,10,0,,0,,7,1,0,0,3,0
+MDEwOlJlcG9zaXRvcnkyMjMzNTU=,https://github.com/alexo/wro4j,alexo,wro4j,2009-06-10 09:31:25,394,2010-03-31 11:37:46,6,0,,0,,57,0,0,0,48,0
+MDEwOlJlcG9zaXRvcnk1MDE2ODc=,https://github.com/antlr/antlr4,antlr,antlr4,2010-02-04 01:36:28,110,2010-03-27 23:24:58,1,0,,0,,38,0,0,0,36,0
+MDEwOlJlcG9zaXRvcnkzMzkwMDI=,https://github.com/aptana/studio3,aptana,studio3,2009-10-15 23:46:08,3105,2010-03-31 23:47:52,15,0,,0,,17,0,0,0,600,0
+MDEwOlJlcG9zaXRvcnkxMjg0NzY=,https://github.com/bndtools/bndtools,bndtools,bndtools,2009-02-13 21:39:29,96,2010-03-30 04:17:43,2,0,,0,,24,0,0,0,22,0
+MDEwOlJlcG9zaXRvcnkxMDE1Mjc=,https://github.com/bpellin/keepassdroid,bpellin,keepassdroid,2009-01-05 22:01:52,236,2010-03-18 06:29:38,1,0,,0,,70,0,0,0,5,0
+MDEwOlJlcG9zaXRvcnkyMDk4NTM=,https://github.com/caelum/caelum-stella,caelum,caelum-stella,2009-05-25 18:31:31,751,2010-03-15 17:01:06,11,0,,0,,36,6,0,0,7,0
+MDEwOlJlcG9zaXRvcnkxNTQ1MjA=,https://github.com/caelum/vraptor,caelum,vraptor,2009-03-19 20:02:31,2100,2010-03-16 03:20:11,27,0,,0,,92,3,147,0,26,0
+MDEwOlJlcG9zaXRvcnkyMzg0NTk=,https://github.com/ccw-ide/ccw,ccw-ide,ccw,2009-06-28 23:02:38,527,2010-03-27 11:29:44,7,0,,0,,41,3,0,0,26,0
+MDEwOlJlcG9zaXRvcnk1MDA4MDY=,https://github.com/citrusframework/citrus,citrusframework,citrus,2010-02-03 15:32:30,538,2010-03-31 17:30:47,2,0,,0,,4,0,1,0,46,0
+MDEwOlJlcG9zaXRvcnk1Mzc4MDA=,https://github.com/dropwizard/metrics,dropwizard,metrics,2010-02-26 19:44:42,49,2010-03-10 01:42:59,1,0,,0,,555,0,0,0,10,0
+MDEwOlJlcG9zaXRvcnk1MDc3NzU=,https://github.com/elastic/elasticsearch,elastic,elasticsearch,2010-02-08 13:20:56,249,2010-03-31 22:46:21,1,0,,0,,1264,0,87,0,131,0
+MDEwOlJlcG9zaXRvcnk0Mjc2MzU=,https://github.com/ervandew/eclim,ervandew,eclim,2009-12-12 21:15:30,3277,2010-03-25 08:16:27,2,0,,0,,79,0,4,0,57,0
+MDEwOlJlcG9zaXRvcnk1MTEyOTc=,https://github.com/hector-client/hector,hector-client,hector,2010-02-10 14:32:34,201,2010-03-31 23:19:32,4,0,,0,,190,2,10,0,111,0
+MDEwOlJlcG9zaXRvcnk0ODk4NTk=,https://github.com/jclouds/legacy-jclouds,jclouds,legacy-jclouds,2010-01-26 21:29:28,1395,2010-03-30 22:41:06,17,0,,0,,174,0,0,0,129,0
+MDEwOlJlcG9zaXRvcnkxMDYzMTA=,https://github.com/junit-team/junit4,junit-team,junit4,2009-01-13 03:41:26,774,2010-03-09 20:36:24,28,0,,0,,347,15,20,0,3,0
+MDEwOlJlcG9zaXRvcnkyNzYyNTY=,https://github.com/konklone/congress-android,konklone,congress-android,2009-08-12 17:48:29,384,2010-03-27 02:10:07,1,0,,0,,38,0,137,0,75,0
+MDEwOlJlcG9zaXRvcnkxNjUxODM=,https://github.com/maxcom/lorsource,maxcom,lorsource,2009-04-01 14:10:52,1710,2010-03-31 15:03:34,16,0,,0,,15,1,1,0,55,0
+MDEwOlJlcG9zaXRvcnkyMTM0Njk=,https://github.com/simpligility/android-maven-plugin,simpligility,android-maven-plugin,2009-05-29 15:08:20,373,2010-03-28 00:57:06,10,0,,0,,87,2,0,0,25,0
+MDEwOlJlcG9zaXRvcnk0ODczOTk=,https://github.com/tvrenamer/tvrenamer,tvrenamer,tvrenamer,2010-01-25 10:14:43,66,2010-03-03 00:40:50,4,0,,0,,5,1,0,0,2,0
+MDEwOlJlcG9zaXRvcnk1Nzg0MzU=,https://github.com/twitter/elephant-bird,twitter,elephant-bird,2010-03-25 01:49:40,6,2010-03-30 00:26:45,2,0,,0,,255,1,0,0,6,0
+MDEwOlJlcG9zaXRvcnk4NjE0OQ==,https://github.com/unclebob/fitnesse,unclebob,fitnesse,2008-12-06 19:38:59,1154,2010-03-31 19:24:44,57,0,,0,,164,31,2,0,59,0

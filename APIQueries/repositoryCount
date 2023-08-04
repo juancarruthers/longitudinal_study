@@ -1,0 +1,9 @@
+query($query: String!){
+  search(
+    query: $query
+    type: REPOSITORY
+    first: 1
+  ) {
+    repositoryCount
+  }
+}

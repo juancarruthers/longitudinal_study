@@ -1,0 +1,69 @@
+id,url,owner,name,createdAt,commits,dateLastCommit,contributors,closedPullReqCount,closedPullReqLastDate,mergedPullReqCount,mergedPullReqLastDate,stargazerCount,forkCount,closedIssuesCount,monthlyclosedPullReq,monthlyCommits,monthlymergedPullReq
+MDEwOlJlcG9zaXRvcnk3MzUzODY=,https://github.com/abarisain/dmix,abarisain,dmix,2010-06-23 08:35:14,195,2010-11-23 21:52:23,7,1,2010-09-13 21:06:31,3,2010-11-24 06:14:02,57,0,13,0,10,2
+MDEwOlJlcG9zaXRvcnkyMjMzNTU=,https://github.com/alexo/wro4j,alexo,wro4j,2009-06-10 09:31:25,658,2010-11-26 19:22:46,7,0,,0,,92,1,0,0,37,0
+MDEwOlJlcG9zaXRvcnkxMDM5MDEz,https://github.com/Amab/SWADroid,Amab,SWADroid,2010-10-31 07:34:56,66,2010-11-22 20:04:46,1,0,,0,,2,0,1,0,64,0
+MDEwOlJlcG9zaXRvcnk1MDE2ODc=,https://github.com/antlr/antlr4,antlr,antlr4,2010-02-04 01:36:28,213,2010-11-24 05:14:49,1,0,,0,,67,0,0,0,2,0
+MDEwOlJlcG9zaXRvcnk2ODgzNTI=,https://github.com/apache/jmeter,apache,jmeter,2010-05-26 23:38:07,6928,2010-11-30 23:34:31,18,0,,0,,12,2,1538,0,69,0
+MDEwOlJlcG9zaXRvcnk2ODgzNjA=,https://github.com/apache/mina-sshd,apache,mina-sshd,2010-05-26 23:38:08,184,2010-11-26 23:23:05,4,0,,0,,5,0,0,0,10,0
+MDEwOlJlcG9zaXRvcnkzMzkwMDI=,https://github.com/aptana/studio3,aptana,studio3,2009-10-15 23:46:08,7868,2010-11-30 21:51:34,25,1,2010-09-02 21:34:26,1,2010-09-02 19:07:00,29,1,0,0,438,0
+MDEwOlJlcG9zaXRvcnk5MTkxNjE=,https://github.com/arduino/Arduino,arduino,Arduino,2010-09-17 19:10:36,1005,2010-11-30 07:26:54,10,4,2010-11-27 21:04:05,3,2010-11-27 21:02:20,623,10,0,3,51,2
+MDEwOlJlcG9zaXRvcnk3NDkxMzc=,https://github.com/Atmosphere/atmosphere,Atmosphere,atmosphere,2010-06-30 14:26:23,322,2010-11-30 21:24:37,9,0,,0,,396,1,0,0,52,0
+MDEwOlJlcG9zaXRvcnk2MTM3MzM=,https://github.com/basho/riak-java-client,basho,riak-java-client,2010-04-16 14:55:01,188,2010-11-23 23:46:47,6,0,,0,,83,3,0,0,8,0
+MDEwOlJlcG9zaXRvcnk2MDY5NTY=,https://github.com/bndtools/bnd,bndtools,bnd,2010-04-12 17:30:15,432,2010-11-29 14:48:45,9,0,,0,,68,1,19,0,16,0
+MDEwOlJlcG9zaXRvcnkxMjg0NzY=,https://github.com/bndtools/bndtools,bndtools,bndtools,2009-02-13 21:39:29,273,2010-11-29 14:48:45,7,0,,1,2010-10-25 23:15:53,38,1,19,0,7,0
+MDEwOlJlcG9zaXRvcnkxMDE1Mjc=,https://github.com/bpellin/keepassdroid,bpellin,keepassdroid,2009-01-05 22:01:52,385,2010-11-30 07:47:33,2,1,2010-09-20 00:55:53,2,2010-10-24 19:38:25,106,2,1,0,15,0
+MDEwOlJlcG9zaXRvcnk2MTg0OTI=,https://github.com/brianfrankcooper/YCSB,brianfrankcooper,YCSB,2010-04-19 20:52:11,68,2010-11-04 14:04:16,12,1,2010-10-14 00:18:02,3,2010-10-06 21:47:08,262,9,8,0,5,0
+MDEwOlJlcG9zaXRvcnkxNTQ1MjA=,https://github.com/caelum/vraptor,caelum,vraptor,2009-03-19 20:02:31,2544,2010-11-30 22:43:09,39,24,2010-11-20 19:32:48,1,2010-10-12 15:36:17,142,15,233,6,89,0
+MDEwOlJlcG9zaXRvcnk3NzE4ODY=,https://github.com/cbeust/jcommander,cbeust,jcommander,2010-07-13 05:40:31,195,2010-11-28 23:00:17,6,1,2010-11-26 22:10:23,1,2010-09-07 00:37:29,98,5,39,1,10,0
+MDEwOlJlcG9zaXRvcnk3NDU3NDk=,https://github.com/cbeust/testng,cbeust,testng,2010-06-28 23:10:17,1435,2010-11-28 05:07:38,18,6,2010-11-26 22:10:12,12,2010-11-15 21:39:10,71,5,4,1,64,1
+MDEwOlJlcG9zaXRvcnk3NDU3NjY=,https://github.com/cbeust/testng-eclipse,cbeust,testng-eclipse,2010-06-28 23:23:46,284,2010-11-30 02:39:52,8,1,2010-11-05 19:51:22,1,2010-09-30 01:57:08,19,5,1,1,74,0
+MDEwOlJlcG9zaXRvcnkyMzg0NTk=,https://github.com/ccw-ide/ccw,ccw-ide,ccw,2009-06-28 23:02:38,799,2010-11-29 02:21:16,11,0,,0,,48,5,0,0,36,0
+MDEwOlJlcG9zaXRvcnk2NjA0NDM=,https://github.com/cdk/cdk,cdk,cdk,2010-05-11 08:30:07,11823,2010-11-28 18:20:52,75,0,,0,,9,0,0,0,15,0
+MDEwOlJlcG9zaXRvcnk1MDA4MDY=,https://github.com/citrusframework/citrus,citrusframework,citrus,2010-02-03 15:32:30,694,2010-11-30 17:18:19,5,0,,0,,14,2,2,0,42,0
+MDEwOlJlcG9zaXRvcnk5MTIyOTE=,https://github.com/dcm4che/dcm4che,dcm4che,dcm4che,2010-09-15 11:13:55,59,2010-11-30 18:43:53,2,0,,0,,5,0,0,0,20,0
+MDEwOlJlcG9zaXRvcnk1MDc3NzU=,https://github.com/elastic/elasticsearch,elastic,elasticsearch,2010-02-08 13:20:56,1550,2010-11-29 15:33:49,6,4,2010-11-18 17:00:24,0,,1849,2,449,1,131,0
+MDEwOlJlcG9zaXRvcnkxMDkwMzEx,https://github.com/elastic/logstash,elastic,logstash,2010-11-18 01:31:50,419,2010-11-30 21:07:55,5,0,,0,,647,0,0,0,136,0
+MDEwOlJlcG9zaXRvcnk2MTQ1Nzg=,https://github.com/eleybourn/Book-Catalogue,eleybourn,Book-Catalogue,2010-04-17 04:00:16,81,2010-11-20 22:44:22,3,0,,0,,27,0,103,0,9,0
+MDEwOlJlcG9zaXRvcnkxMDE3MjI3,https://github.com/EngineHub/CraftBook,EngineHub,CraftBook,2010-10-23 08:38:08,95,2010-11-30 12:34:41,3,2,2010-11-29 15:40:46,5,2010-11-29 22:12:29,37,0,9,2,78,5
+MDEwOlJlcG9zaXRvcnk5NDQ5MjY=,https://github.com/EngineHub/WorldEdit,EngineHub,WorldEdit,2010-09-28 08:11:57,238,2010-11-29 01:11:15,2,0,,0,,89,3,11,0,91,0
+MDEwOlJlcG9zaXRvcnk0Mjc2MzU=,https://github.com/ervandew/eclim,ervandew,eclim,2009-12-12 21:15:30,3462,2010-11-30 21:14:08,3,0,,0,,113,1,22,0,18,0
+MDEwOlJlcG9zaXRvcnk5NDkxMjk=,https://github.com/geometer/FBReaderJ,geometer,FBReaderJ,2010-09-29 18:35:28,2075,2010-11-30 21:49:18,14,3,2010-11-20 07:17:13,3,2010-11-17 08:33:06,130,5,0,2,274,1
+MDEwOlJlcG9zaXRvcnk5NTI1ODU=,https://github.com/GeoWebCache/geowebcache,GeoWebCache,geowebcache,2010-09-30 22:26:08,985,2010-11-30 02:09:13,6,1,2010-11-06 14:15:50,0,,24,1,4,1,15,0
+MDEwOlJlcG9zaXRvcnk2NzE4MjU=,https://github.com/Graylog2/graylog2-server,Graylog2,graylog2-server,2010-05-17 21:27:02,337,2010-11-30 21:34:54,12,4,2010-11-17 23:50:38,0,,401,6,1,2,97,0
+MDEwOlJlcG9zaXRvcnk1MTEyOTc=,https://github.com/hector-client/hector,hector-client,hector,2010-02-10 14:32:34,859,2010-11-30 06:49:08,17,5,2010-10-08 05:52:13,5,2010-11-29 08:44:25,294,27,70,0,91,3
+MDEwOlJlcG9zaXRvcnk2MTc4MTQ=,https://github.com/helloworld1/AnyMemo,helloworld1,AnyMemo,2010-04-19 14:08:22,345,2010-11-30 17:47:32,2,0,,0,,13,1,1,0,52,0
+MDEwOlJlcG9zaXRvcnk2MTcyMTA=,https://github.com/hub4j/github-api,hub4j,github-api,2010-04-19 04:13:03,24,2010-11-24 08:52:30,1,0,,0,,33,1,0,0,8,0
+MDEwOlJlcG9zaXRvcnk0NTkzNDg=,https://github.com/jberkel/sms-backup-plus,jberkel,sms-backup-plus,2010-01-05 13:49:00,492,2010-11-30 23:44:39,11,3,2010-11-08 09:32:44,10,2010-11-26 20:59:54,156,5,66,2,145,6
+MDEwOlJlcG9zaXRvcnk0ODk4NTk=,https://github.com/jclouds/legacy-jclouds,jclouds,legacy-jclouds,2010-01-26 21:29:28,2113,2010-11-30 19:06:06,29,0,,1,2010-11-27 05:13:58,254,14,0,0,88,1
+MDEwOlJlcG9zaXRvcnk5NjE3OTk=,https://github.com/jmock-developers/jmock-library,jmock-developers,jmock-library,2010-10-04 21:02:04,1192,2010-11-26 15:59:55,9,0,,0,,13,1,0,0,1,0
+MDEwOlJlcG9zaXRvcnkxMDU3NDkw,https://github.com/jpos/jPOS,jpos,jPOS,2010-11-06 18:26:13,2959,2010-11-29 00:47:34,24,0,,0,,27,2,0,0,101,0
+MDEwOlJlcG9zaXRvcnk3MjIyMDE=,https://github.com/jruby/jruby-openssl,jruby,jruby-openssl,2010-06-15 14:43:14,326,2010-11-03 20:56:13,15,0,,0,,0,0,1,0,4,0
+MDEwOlJlcG9zaXRvcnkxMDYzMTA=,https://github.com/junit-team/junit4,junit-team,junit4,2009-01-13 03:41:26,821,2010-11-16 18:18:17,32,1,2010-10-13 02:24:11,2,2010-11-16 18:19:54,550,28,43,0,5,2
+MDEwOlJlcG9zaXRvcnkyNzYyNTY=,https://github.com/konklone/congress-android,konklone,congress-android,2009-08-12 17:48:29,825,2010-11-19 22:40:02,2,0,,0,,57,4,291,0,6,0
+MDEwOlJlcG9zaXRvcnk2MTgxMDM=,https://github.com/liato/android-bankdroid,liato,android-bankdroid,2010-04-19 16:51:55,98,2010-11-26 05:09:21,2,2,2010-09-23 07:54:44,1,2010-09-23 02:01:00,47,0,14,0,36,0
+MDEwOlJlcG9zaXRvcnkxNjUxODM=,https://github.com/maxcom/lorsource,maxcom,lorsource,2009-04-01 14:10:52,2256,2010-11-30 21:44:39,22,0,,0,,22,1,2,0,110,0
+MDEwOlJlcG9zaXRvcnkxMDY0NTYz,https://github.com/netty/netty,netty,netty,2010-11-09 09:22:21,2092,2010-11-23 18:13:51,5,0,,1,2010-11-15 13:41:46,548,2,0,0,9,1
+MDEwOlJlcG9zaXRvcnk3NDcxNjA=,https://github.com/northern-bites/nbites,northern-bites,nbites,2010-06-29 17:22:18,3822,2010-11-30 06:08:02,60,3,2010-10-07 22:22:38,10,2010-11-17 01:14:26,20,17,1,0,47,3
+MDEwOlJlcG9zaXRvcnk4NjU0MTI=,https://github.com/OpenTSDB/opentsdb,OpenTSDB,opentsdb,2010-08-27 02:05:20,63,2010-11-24 12:11:35,1,0,,0,,281,0,1,0,11,0
+MDEwOlJlcG9zaXRvcnk5MTg1NzQ=,https://github.com/ops4j/org.ops4j.pax.web,ops4j,org.ops4j.pax.web,2010-09-17 14:52:23,1071,2010-11-27 03:09:30,22,0,,1,2010-10-25 05:30:27,15,0,192,0,16,0
+MDEwOlJlcG9zaXRvcnkxMDAxMjg0,https://github.com/pholser/junit-quickcheck,pholser,junit-quickcheck,2010-10-18 22:33:36,9,2010-11-28 07:50:14,1,0,,0,,10,1,0,0,3,0
+MDEwOlJlcG9zaXRvcnkxMDU5OTI5,https://github.com/php-coder/mystamps,php-coder,mystamps,2010-11-07 20:00:26,189,2010-11-21 20:15:07,1,0,,0,,0,0,0,0,6,0
+MDEwOlJlcG9zaXRvcnkxMDUxNDc2,https://github.com/plantuml/plantuml,plantuml,plantuml,2010-11-04 15:55:50,2,2010-11-26 00:12:39,1,0,,0,,4,0,0,0,2,0
+MDEwOlJlcG9zaXRvcnk4MzU0NjY=,https://github.com/playframework/play1,playframework,play1,2010-08-13 10:08:50,2196,2010-11-30 17:54:19,87,27,2010-11-24 18:34:02,1,2010-10-10 22:00:00,658,16,0,17,59,0
+MDEwOlJlcG9zaXRvcnkxMDk1MjA4,https://github.com/powertac/powertac-server,powertac,powertac-server,2010-11-19 16:59:04,52,2010-11-30 18:05:16,8,0,,0,,7,0,2,0,52,0
+MDEwOlJlcG9zaXRvcnkyMjE4NjI=,https://github.com/projectlombok/lombok,projectlombok,lombok,2009-06-08 19:46:41,778,2010-11-30 00:43:44,8,1,2010-11-30 04:05:31,0,,230,12,1,1,115,0
+MDEwOlJlcG9zaXRvcnk5MjQ1NzI=,https://github.com/rabbitmq/rabbitmq-java-client,rabbitmq,rabbitmq-java-client,2010-09-20 10:43:18,1158,2010-11-30 16:53:57,34,0,,0,,17,0,0,0,72,0
+MDEwOlJlcG9zaXRvcnk3MTU2MDU=,https://github.com/redis/jedis,redis,jedis,2010-06-11 13:04:43,236,2010-11-30 18:58:20,14,9,2010-11-25 15:51:36,13,2010-11-22 00:17:08,367,12,29,4,68,2
+MDEwOlJlcG9zaXRvcnkxMDExNTM5,https://github.com/rest-assured/rest-assured,rest-assured,rest-assured,2010-10-21 08:35:43,21,2010-11-01 00:24:09,1,0,,0,,30,0,0,0,2,0
+MDEwOlJlcG9zaXRvcnk3Nzc0NDQ=,https://github.com/rhuss/jolokia,rhuss,jolokia,2010-07-15 20:08:44,131,2010-11-30 01:14:10,5,1,2010-11-04 01:20:55,6,2010-10-16 13:15:08,62,1,2,1,21,0
+MDEwOlJlcG9zaXRvcnk4Njc1NjQ=,https://github.com/robolectric/robolectric,robolectric,robolectric,2010-08-28 00:28:25,566,2010-11-30 22:39:35,54,0,,6,2010-11-30 04:08:52,225,3,2,0,212,6
+MDEwOlJlcG9zaXRvcnk3NDU0NTY=,https://github.com/sevntu-checkstyle/sevntu.checkstyle,sevntu-checkstyle,sevntu.checkstyle,2010-06-28 20:11:14,113,2010-11-26 11:55:34,9,0,,0,,5,0,6,0,1,0
+MDEwOlJlcG9zaXRvcnkyMTM0Njk=,https://github.com/simpligility/android-maven-plugin,simpligility,android-maven-plugin,2009-05-29 15:08:20,508,2010-11-29 19:16:31,20,0,,5,2010-10-11 09:51:05,163,9,0,0,22,0
+MDEwOlJlcG9zaXRvcnkxMDg4Nzk2,https://github.com/spring-projects/spring-amqp,spring-projects,spring-amqp,2010-11-17 15:50:16,191,2010-11-30 13:42:19,6,2,2010-11-17 20:37:31,0,,35,2,21,2,25,0
+MDEwOlJlcG9zaXRvcnkxMDg5MTQ5,https://github.com/spring-projects/spring-batch,spring-projects,spring-batch,2010-11-17 17:53:45,3978,2010-11-28 23:49:12,12,0,,0,,70,1,1568,0,44,0
+MDEwOlJlcG9zaXRvcnkxMDcyNjE0,https://github.com/spring-projects/spring-data-commons,spring-projects,spring-data-commons,2010-11-11 20:19:31,27,2010-11-30 14:40:12,3,0,,0,,27,0,0,0,9,0
+MDEwOlJlcG9zaXRvcnkxMDcyODQ1,https://github.com/spring-projects/spring-data-jpa,spring-projects,spring-data-jpa,2010-11-11 21:36:56,5,2010-11-30 14:42:51,1,0,,0,,75,0,0,0,5,0
+MDEwOlJlcG9zaXRvcnk0ODczOTk=,https://github.com/tvrenamer/tvrenamer,tvrenamer,tvrenamer,2010-01-25 10:14:43,136,2010-11-14 06:49:03,5,0,,0,,8,2,0,0,20,0
+MDEwOlJlcG9zaXRvcnk1Nzg0MzU=,https://github.com/twitter/elephant-bird,twitter,elephant-bird,2010-03-25 01:49:40,87,2010-11-30 22:15:16,16,1,2010-10-19 07:21:06,4,2010-10-12 00:33:33,331,13,10,0,5,0
+MDEwOlJlcG9zaXRvcnk4NjE0OQ==,https://github.com/unclebob/fitnesse,unclebob,fitnesse,2008-12-06 19:38:59,1298,2010-11-28 04:47:43,64,0,,1,2010-11-28 12:47:56,210,42,2,0,13,1
+MDEwOlJlcG9zaXRvcnkxMTAwNzcx,https://github.com/Whiley/WhileyCompiler,Whiley,WhileyCompiler,2010-11-21 22:32:44,744,2010-11-23 23:14:28,3,0,,0,,12,0,0,0,36,0
