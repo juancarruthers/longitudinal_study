@@ -10,7 +10,7 @@ def retrieveProjects(queryFilter: str, secondFilter: dict, folderPath: str, save
     projectRetriever = GQL(queryFilter, secondFilter, folderPath, p_saveThreshold=savethreshold, p_itemsPageMainQuery=p_itemsPageMainQuery)
     projectRetriever.main()
 
-def xiaMonthlyData(xiaCodePath: str, projectListPath: str):
+def xiaMonthlyData(xiaCodePath: str, projectListPath: str, virtualEnvironmentPath: str):
 
     if not (os.path.isdir(f'{xiaCodePath}/experiment/data')):
         os.mkdir(f'{xiaCodePath}/experiment/data')
@@ -19,7 +19,7 @@ def xiaMonthlyData(xiaCodePath: str, projectListPath: str):
 
     dataset = pd.read_csv(f"{projectListPath}/retrieved-projects.csv")
     dataset['url'].to_csv(f"{xiaCodePath}/experiment/data/repo_list.csv", index=False, header=False)
-    command = [f'{xiaCodePath}/venv/Scripts/python.exe', 'master_runner.py']
+    command = [virtualEnvironmentPath, 'master_runner.py']
     subprocess.run(command, cwd=f'{xiaCodePath}/experiment')
 
 def generateLongStudyDatasets(xiaCodePath: str, projectListPath: str):
@@ -66,10 +66,12 @@ if __name__ == '__main__':
     QUERY_FILTER = f"is:public, language:java, mirror:false, forks:>=10, stars:>=10, created:<={JUNE_1ST_2022}"
     SECOND_FILTER = {'keywords': ['sample', 'tutorial', 'demo', 'conf', 'exam', 'docs', 'benchmark', 'wiki'], 'totalSize': 10000, 'commits': 1000,
                     'closedIssuesCount': 50, 'pullReqCount': 50 , 'dateLastActivity': '1970-01-01', 'contributors': 3}
+    
+    VIRTUAL_ENVIRONMENT_PATH = 'venv/Scripts/python.exe'
 
 
     retrieveProjects(QUERY_FILTER, SECOND_FILTER, PROJ_RETRIEVAL_PATH)
-    xiaMonthlyData(XIA_CODE_PATH, PROJ_RETRIEVAL_PATH)
+    xiaMonthlyData(XIA_CODE_PATH, PROJ_RETRIEVAL_PATH, VIRTUAL_ENVIRONMENT_PATH)
     generateLongStudyDatasets(XIA_CODE_PATH, PROJ_RETRIEVAL_PATH)
 
 

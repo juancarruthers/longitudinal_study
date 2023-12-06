@@ -14,7 +14,7 @@ To plot the results and graphics in the article there is a Jupyter Notebook "Lon
 It is initially configured to use the data in "datasets" folder.
 
 ## Replication Kit
-For replication purposes, a new dataset can be generated running. To do so, the virtual environment must be configured using requirements.txt file and then just run "main.py" script. 
+For replication purposes, a new dataset can be generated. To do so, the virtual environment must install the dependencies in ./requirements.txt file, add Github's tokens in ./token and ./Health_Indicator_Prediction/experiment/tokens.txt files, and run "main.py" script. 
 The script comprise 3 specific stages:
 + Project retrieval: at first the project are retrieved from Github's API.
 + Xia script: with the list of projects, [Xia's script](https://github.com/arennax/Health_Indicator_Prediction) is used to extract monthly repository information. Xia's project is imported in "Health_Indicator_Prediction" folder.
